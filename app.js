@@ -15,6 +15,4 @@ function myFunction(){
 
     oldvalue = document.getElementById('box').lastElementChild.innerHTML;
     console.log(oldvalue)
-
-
 }
